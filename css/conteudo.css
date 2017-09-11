@@ -1,0 +1,38 @@
+.Destaque{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    margin: 2em;
+    height: 20vh;
+    text-align: center;
+    text-transform: uppercase;
+}
+.Destaque h1{
+    font-size: 3.5em;
+    color: white;
+    text-shadow: 6px 9px 19px #000;
+}
+.Destaque p{
+    font-size: 3em;
+    color: chartreuse;
+    margin-top: -60px;
+    text-shadow: 6px 9px 19px #000;
+}
+
+.bt-inscreva{
+    display: flex;
+    justify-content: center;
+    height: 65vh;
+}
+.bt-inscreva a{
+    background-color: darkcyan;
+    color: white;
+    width: 50vw;
+    text-align: center;
+    align-self: flex-start;
+    padding: 1em;
+    font-size: 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: .2em;
+}
