@@ -1,0 +1,10 @@
+body{
+    background: url(../img/destaque.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height:100vh;
+}
+nav{
+    font-size: 20px;
+}
